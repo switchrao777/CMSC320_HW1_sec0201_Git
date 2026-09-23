@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Healthcare. For example, machine learning models trained on patient records and imaging data can help detect diseases like cancer earlier, and predict which patients are at high risk of hospital readmission.
