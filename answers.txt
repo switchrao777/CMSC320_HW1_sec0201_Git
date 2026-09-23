@@ -5,3 +5,7 @@ Answer: Git tracks every change to a project, so you can see what changed and wh
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare. For example, machine learning models trained on patient records and imaging data can help detect diseases like cancer earlier, and predict which patients are at high risk of hospital readmission.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches by creating a new merge commit, which preserves the full history of both branches. Rebasing replays the commits from one branch on top of another, which rewrites history into a clean, linear sequence without an extra merge commit.
